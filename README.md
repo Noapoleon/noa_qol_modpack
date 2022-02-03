@@ -36,7 +36,7 @@ Here are the instructions you should follow to successfully run the modpack.
     + Try to find a `mods` folder. If there's is none, create it with this exact spelling: `mods`. 
     + If you already have mods inside it is recommended to remove them and save them somewhere as they might interfere with the modpack's mod and cause crashes. _You are free to keep them but if you can't launch the your fabric minecraft version later consider removing them._
     + Open a new explorer window (shortcut win+e) and navigate to your download location for the modpack (by default the `Downloads` folder).
-    + Drag or copy the modpack's zip to the `mods` folder. **You don't need to unzip it.** The game will be able to see the mods inside the zip perfectly fine.
+    + Drag or copy the modpack's zip to the `mods` folder. Right click on the zip folder and using your archive manager software of choice (winrar for me) extract all the `.jar` files directly into the `mods` folder. _**This is important: They have to be directly inside the `mods` folder not in another folder!**_
 
     If you downloaded the individual `.jar` mod files the process is the same. However make sure you downloaded the mods marked as **depencencies** as some other mods **require** them and won't work properly or even worse, completely halt start up, if they are not present.
 
