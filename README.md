@@ -38,9 +38,7 @@ Quisque purus elit, vehicula nec sapien in, lobortis molestie ipsum. Aliquam sem
 ## Download Links
 Here you can find the modpack zip file as well as all the individual official mods download links for those who won't trust a random stranger on the internet for providing them with jar files ( and I don't blame you ;) )
 
-<a download="noa_qol_modpack_v_1_0.zip" href="./" title="myModpack">
-my modpack thing here
-</a>
++ **Noa's QoL Modpack:** <a href="https://github.com/Noapoleon/noa_qol_modpack/blob/master/noa_qol_modpack_v_1_0.zip?raw=true" title="modpackDownloadLink">noa_qol_modpack_v_1_0.zip</a>
 
 ## Credits
 ill find the credits soon enough. nobody's gonna download this rn anyway
