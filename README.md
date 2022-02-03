@@ -12,7 +12,7 @@ Here are the different section you'll find in this guide:
 ## Installation Guide
 Here are the instructions you should follow to successfully run the modpack.
 
-1. Install the [Fabric Loader Version for 1.18.1](https://fabricmc.net/use/installer/)
+**1. Install the [Fabric Loader Version for 1.18.1](https://fabricmc.net/use/installer/)**
 
     This step will create a new installation profile for fabric which you will use to launch minecraft in the minecraft launcher.
   
@@ -27,7 +27,7 @@ Here are the instructions you should follow to successfully run the modpack.
 
     Once all of this is setup like indicated click on the `Install` button and you should be done with this step.
 
-2. Install the modpack mods
+**2. Install the modpack mods**
 
     First off to install the mods you will need to locate your `.minecraft` folder which contains all the important files minecraft uses to run.
   
@@ -40,7 +40,7 @@ Here are the instructions you should follow to successfully run the modpack.
 
     If you downloaded the individual `.jar` mod files the process is the same. However make sure you downloaded the mods marked as **depencencies** as some other mods **require** them and won't work properly or even worse, completely halt start up, if they are not present.
 
-3. Launch the game with Noa's QoL Modpack
+**3. Launch the game with Noa's QoL Modpack**
 
     At this point everything should be ready for starting the game with the modpack.
   
