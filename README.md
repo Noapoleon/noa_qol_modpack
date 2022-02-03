@@ -15,14 +15,14 @@ Here are the instructions you should follow to successfully run the modpack.
 1. Install the [Fabric Loader Version for 1.18.1](https://fabricmc.net/use/installer/)
   This step will create a new installation profile for fabric which you will use to launch minecraft in the minecraft launcher.
   
-  1.1 On the webpage the link above took you to click on the "Download universion jar" link right under the big "Download for Windows" button.
-  1.2 It should start downloading file named `fabric-installer-x.xx.x.jar` with `x`s being replaced by the version numbers.
-  1.3 Double click on that `.jar` file to open it and select these options for the installation of fabric version:
-    - The selected tab at the top left should be `Client`
-    - The `Minecraft Version:` dropdown should be `1.18.1`
-    - The `Loader Version:` dropdown should be `0.12.12` ( other versions have yet to be comfirmed as compatible, you may test other versions on your own but it is not recommended.
-    - The `Select Install Location` field should be left as the default included path (unless you know what you're doing).
-    - The `Create profile` box should be ticked
+    1.1 On the webpage the link above took you to click on the "Download universion jar" link right under the big "Download for Windows" button.
+    1.2 It should start downloading file named `fabric-installer-x.xx.x.jar` with `x`s being replaced by the version numbers.
+    1.3 Double click on that `.jar` file to open it and select these options for the installation of fabric version:
+      - The selected tab at the top left should be `Client`
+      - The `Minecraft Version:` dropdown should be `1.18.1`
+      - The `Loader Version:` dropdown should be `0.12.12` ( other versions have yet to be comfirmed as compatible, you may test other versions on your own but it is not recommended.
+      - The `Select Install Location` field should be left as the default included path (unless you know what you're doing).
+      - The `Create profile` box should be ticked
 
   Once all of this is setup like indicated click on the `Install` button and you should be done with this step.
 
