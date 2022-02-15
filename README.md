@@ -57,6 +57,13 @@ ill do it later this afternoon
 
 ## Additional Setup
 
+**Shaders:** If your pc is powerful enough to support shaders you might want to look into these two shaders, favorites of mine:
+    + [SEUS PTGI Rtx Shaders](https://www.sonicether.com/seus/#:~:text=SEUS%20PTGI%20is%20an%20experimental,also%20includes%20ray%20traced%20reflections.)
+    + [Sildur's Vibrant Shaders](https://sildurs-shaders.github.io/) (this one has multiple quality versions for less powerful configs)
+    There are plenty of guides online on how to install shaders with sodium if you need help btw.
+    
+**My mod config:** by default there are keybinds conflict and the UI settings for certain mods are not ideal in my opinion, that's why I've included [my config zipped folder](https://github.com/Noapoleon/noa_qol_modpack/blob/master/config.zip?raw=true). This zip file is meant to be placed in your `config` folder in your `.minecraft` folder (we sawhow to find this folder in the installation guide above) and then extracted using the `Extract Here` option. You can then delete the zip file.
+
 here put links for the sildur and seus ptgi shaders and also a setup guide for my config files / preferences set manually
 
 ## Sample Images
