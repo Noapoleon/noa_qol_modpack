@@ -64,8 +64,6 @@ ill do it later this afternoon
     
 **My mod config:** by default there are keybinds conflict and the UI settings for certain mods are not ideal in my opinion, that's why I've included [my config zipped folder](https://github.com/Noapoleon/noa_qol_modpack/blob/master/config.zip?raw=true). This zip file is meant to be placed in your `config` folder in your `.minecraft` folder (we sawhow to find this folder in the installation guide above) and then extracted using the `Extract Here` option. You can then delete the zip file.
 
-here put links for the sildur and seus ptgi shaders and also a setup guide for my config files / preferences set manually
-
 ## Sample Images
 lol dont have them yet
 
