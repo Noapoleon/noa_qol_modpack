@@ -1,6 +1,5 @@
 <h1 align="center"><i><u>Noa's QoL Modpack 🦋</u></i></h1>
 
-# Noa's QoL Modpack 🦋
 **Noa's QoL Modpack** is a **Fabric Minecraft 1.19.2 compatible modpack** that includes multiple client side mods to improve the vanilla experience.
 It brings UI enhancements like a minimap, armor and tool durability viewer, inventory viewer without pressing 'e' and more which can all be toggled on and off based on your preference. Of course all mod authors are credited and all official download links are provided as well as a detailed step-by-step installation guide that can be found below.
 
