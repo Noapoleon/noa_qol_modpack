@@ -1,8 +1,57 @@
 {
 	"basics": {
-		"favorites": [],
+		"favorites": [
+			"{data:{Count:1b,id:\"minecraft:spruce_door\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:oak_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cobblestone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:white_bed\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:deepslate_brick_stairs\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stripped_crimson_stem\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:raw_copper\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cobbled_deepslate_wall\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:chiseled_red_sandstone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:small_dripleaf\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cocoa_beans\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:brewing_stand\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:wheat_seeds\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bell\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:coarse_dirt\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cooked_beef\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:spruce_button\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:green_glazed_terracotta\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:spruce_log\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:spruce_planks\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:gunpowder\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stick\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:emerald\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:enchanted_golden_apple\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:shield\",tag:{Damage:27},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stonecutter\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cauldron\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:spruce_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:golden_pickaxe\",tag:{Damage:9,Enchantments:[{id:\"minecraft:fortune\",lvl:1s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:torch\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:bone_block\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stripped_birch_wood\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:mangrove_slab\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:leather\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:arrow\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:shulker_box\",tag:{BlockEntityTag:{Items:[{Count:64b,Slot:0b,id:\"minecraft:bamboo\"},{Count:64b,Slot:1b,id:\"minecraft:bamboo\"},{Count:64b,Slot:2b,id:\"minecraft:bamboo\"},{Count:64b,Slot:3b,id:\"minecraft:bamboo\"},{Count:64b,Slot:4b,id:\"minecraft:bamboo\"},{Count:64b,Slot:5b,id:\"minecraft:bamboo\"},{Count:64b,Slot:6b,id:\"minecraft:bamboo\"},{Count:64b,Slot:7b,id:\"minecraft:bamboo\"},{Count:64b,Slot:8b,id:\"minecraft:bamboo\"},{Count:64b,Slot:9b,id:\"minecraft:bamboo\"},{Count:64b,Slot:10b,id:\"minecraft:bamboo\"},{Count:64b,Slot:11b,id:\"minecraft:bamboo\"},{Count:64b,Slot:12b,id:\"minecraft:bamboo\"},{Count:64b,Slot:13b,id:\"minecraft:bamboo\"},{Count:64b,Slot:14b,id:\"minecraft:bamboo\"},{Count:64b,Slot:15b,id:\"minecraft:bamboo\"},{Count:64b,Slot:16b,id:\"minecraft:bamboo\"},{Count:64b,Slot:17b,id:\"minecraft:bamboo\"},{Count:64b,Slot:18b,id:\"minecraft:bamboo\"},{Count:64b,Slot:19b,id:\"minecraft:bamboo\"},{Count:64b,Slot:20b,id:\"minecraft:bamboo\"},{Count:64b,Slot:21b,id:\"minecraft:bamboo\"},{Count:64b,Slot:22b,id:\"minecraft:bamboo\"},{Count:64b,Slot:23b,id:\"minecraft:bamboo\"},{Count:64b,Slot:24b,id:\"minecraft:bamboo\"},{Count:64b,Slot:25b,id:\"minecraft:bamboo\"},{Count:64b,Slot:26b,id:\"minecraft:bamboo\"}],id:\"minecraft:shulker_box\"}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:iron_sword\",tag:{Damage:0,Enchantments:[{id:\"minecraft:unbreaking\",lvl:2s},{id:\"minecraft:bane_of_arthropods\",lvl:2s}]},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:netherite_boots\",tag:{Damage:0,Enchantments:[{id:\"minecraft:mending\",lvl:1s},{id:\"minecraft:depth_strider\",lvl:3s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:feather_falling\",lvl:4s},{id:\"minecraft:protection\",lvl:4s}],RepairCost:15},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:redstone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:apple\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:infested_cobblestone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:gray_shulker_box\",tag:{BlockEntityTag:{Items:[{Count:64b,Slot:0b,id:\"minecraft:arrow\"},{Count:64b,Slot:1b,id:\"minecraft:arrow\"},{Count:1b,Slot:2b,id:\"minecraft:jungle_boat\"},{Count:1b,Slot:3b,id:\"minecraft:crafting_table\"},{Count:2b,Slot:6b,id:\"minecraft:golden_carrot\"},{Count:1b,Slot:9b,id:\"minecraft:diamond_hoe\",tag:{Damage:178}},{Count:55b,Slot:18b,id:\"minecraft:torch\"}],id:\"minecraft:shulker_box\"},display:{Name:'{\"text\":\"EDC Box\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:gray_shulker_box\",tag:{BlockEntityTag:{Items:[{Count:64b,Slot:0b,id:\"minecraft:arrow\"},{Count:64b,Slot:1b,id:\"minecraft:arrow\"},{Count:1b,Slot:2b,id:\"minecraft:jungle_boat\"},{Count:7b,Slot:3b,id:\"minecraft:golden_carrot\"},{Count:1b,Slot:9b,id:\"minecraft:diamond_hoe\",tag:{Damage:178}},{Count:1b,Slot:11b,id:\"minecraft:flint_and_steel\",tag:{Damage:2}},{Count:55b,Slot:18b,id:\"minecraft:torch\"}],id:\"minecraft:shulker_box\"},display:{Name:'{\"text\":\"EDC Box\"}'}},type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:stone\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}",
+			"{data:{Count:1b,id:\"minecraft:cobbled_deepslate\",type:\"minecraft:item\"},type:\"roughlyenoughitems:entry_stack\"}"
+		],
 		"hiddenFavorites": [],
-		"displayHistory": [],
+		"displayHistory": [
+			"{DisplayHistoryCategory:\"minecraft:plugins/tag\",DisplayHistoryContains:0b,DisplayHistoryUUID:\"28bea93b-9d71-4954-a56d-3cf49c307568\"}"
+		],
 		// Declares whether cheating mode is on.
 		"cheating": false,
 		"favoritesEnabled": true,
@@ -59,8 +108,10 @@
 		"filtering": {
 			"shouldFilterDisplays": true,
 			"filteringRules": [
-				"{id:\"roughlyenoughitems:manual\",rule:{}}"
+				"{id:\"roughlyenoughitems:manual\",rule:{}}",
+				"{id:\"roughlyenoughitems:basic\",rule:{}}"
 			],
+			"filteringQuickCraftCategories": { },
 			"filteredStacks": []
 		},
 		"enableJeiCompatibilityLayer": true,
@@ -68,7 +119,8 @@
 			// Declares whether REI should append mod names to entries.
 			"appendModNames": true,
 			// Declares whether favorites tooltip should be displayed.
-			"displayFavoritesTooltip": false
+			"displayFavoritesTooltip": false,
+			"displayIMEHints": true
 		},
 		"layout": {
 			// The ordering of the items on the entry panel.
@@ -102,6 +154,7 @@
 			"asyncSearch": true,
 			// Declares how many entries should be grouped one async search.
 			"asyncSearchPartitionSize": 100,
+			"patchAsyncThreadCrash": true,
 			"tooltipSearch": "ALWAYS",
 			"tagSearch": "PREFIX",
 			"identifierSearch": "ALWAYS",
@@ -126,7 +179,7 @@
 		}
 	},
 	"appearance": {
-		"recipeScreenType": "UNSET",
+		"recipeScreenType": "ORIGINAL",
 		// Declares the appearance of REI windows.
 		"theme": "LIGHT",
 		"layout": {

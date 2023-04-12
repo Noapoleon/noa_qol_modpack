@@ -1,0 +1,8 @@
+#Tue Apr 11 15:00:04 CEST 2023
+Celshading=true
+Godrays=true
+Godrays_Density=4.6
+Lens_Flares=true
+POM_RES=256
+WeatherAngle=true
+nMap=2
